@@ -21,6 +21,7 @@
 ### For more informations about projects developed and projects under construction:
  
 <div>
+ <a href="https://almeidaro.github.io/Simplified_Portifolio/" target="_blank"><img src="https://img.shields.io/badge/-Github-A6CE39?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
   <a href="https://orcid.org/0000-0002-7444-0864" target="_blank"><img src="https://img.shields.io/badge/-Orcid-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rodrigo-de-oliveira-almeida-b9b1291aa" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="http://lattes.cnpq.br/6820860716300904" target="_blank"><img src="https://img.shields.io/badge/-Lattes-7289DA?style=for-the-badge&logo=lattes&logoColor=white" target="_blank"></a>
