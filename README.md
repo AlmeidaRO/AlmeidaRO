@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao meu perfil.
+## Welcome to my profile.
 
  <div>
    <a href="https://github.com/AlmeidaRO">
@@ -18,7 +18,7 @@
  
 <br>
  
-### Para mais informações sobre trabalhos desenvolvidos e em desenvolvimento:
+### For more informations about projects developed and projects under construction:
  
 <div>
   <a href="https://orcid.org/0000-0002-7444-0864" target="_blank"><img src="https://img.shields.io/badge/-Orcid-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" target="_blank"></a>
